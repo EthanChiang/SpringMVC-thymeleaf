@@ -1,10 +1,7 @@
 # RestfulApi
-JAVA Rest API example:
+JAVA BreadcrumbsSpringMVC-thymeleaf example:
 
 Java version:17
-
-Bcrypt-users.sql    
-創建使用者帳密以及權限
 
 Employee.sql
 創建employee資料表
@@ -19,3 +16,6 @@ Spring-boot-devtools
 Spring-boot-rest
 
 資料庫:MySQL
+
+登入帳號：ethan
+登入密碼: 123
