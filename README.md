@@ -1,5 +1,5 @@
-# RestfulApi
-JAVA BreadcrumbsSpringMVC-thymeleaf example:
+# SpringMVC-thymeleaf
+JAVA SpringMVC-thymeleaf example:
 
 Java version:17
 
